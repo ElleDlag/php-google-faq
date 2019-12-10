@@ -1,0 +1,149 @@
+{
+    "values":
+    [
+        {
+        "lingua":"it",
+        "faq":[
+            {
+            "domanda":"Come state implementando la recente decisione della Corte di giustizia dell'Unione europea (CGUE) relativa al diritto all'oblio?",
+            "risposta":[
+                "La recente decisione della Corte di giustizia dell'Unione europea ha profonde conseguenze per i motori di ricerca in Europa. La Corte ha stabilito che alcuni utenti hanno il diritto di chiedere ai motori di ricerca come Google di rimuovere risultati relativi a chiavi di ricerca che includono il proprio nome. Per poter essere rimossi, i risultati visualizzati devono essere inadeguati, irrilevanti o non più rilevanti, o eccessivi.",
+                "Da quando questa decisione è stata pubblicata il 13 maggio 2014, abbiamo lavorato incessantemente per uniformarci a essa. Si tratta di una procedura complessa perché dobbiamo valutare ogni singola richiesta e effettuare un bilanciamento tra il diritto dell'individuo a controllare i suoi dati personali ed il diritto di tutti di conoscere e distribuire le informazioni.",
+                "Per presentare una richiesta di rimozione, compila questo modulo web. Riceverai una risposta automatica che conferma la ricezione della tua richiesta. Dopodiché valuteremo il tuo caso (tieni presente che potrebbe occorrere un po' di tempo perché abbiamo già ricevuto tante richieste simili). Nel valutare la richiesta, considereremo se i risultati includono informazioni obsolete relative alla tua vita privata. Considereremo inoltre se vi è un interesse pubblico a che le informazioni rimangano nei nostri risultati delle ricerche, ad esempio se riguardano frodi finanziarie, negligenza professionale, condanne penali o la tua condotta pubblica in relazione a un pubblico ufficio (eletto o non eletto). Queste valutazioni sono complesse e, in quanto organizzazione privata, potremmo non essere nella posizione giusta per prendere decisioni in merito al tuo caso. Se non sei d'accordo con la nostra valutazione, puoi rivolgerti all'Autorità garante per la protezione dei dati personali nel tuo paese.",
+                "Nei prossimi mesi lavoreremo a stretto contatto con le autorità per la protezione dei dati e con altre autorità per perfezionare il nostro approccio. La decisione della CGUE rappresenta un cambiamento significativo per i motori di ricerca. Siamo preoccupati per le sue conseguenze, ma riteniamo anche che sia importante rispettare la decisione della Corte e ci stiamo adoperando per predisporre una procedura conforme alla legge.",
+                "Quando cerchi un nome, potresti trovare una notifica in cui viene spiegato che i risultati potrebbero essere stati modificati nel rispetto delle leggi europee per la protezione dei dati. Mostriamo questa notifica agli utenti europei quando cercano la maggior parte dei nomi, non soltanto le pagine che sono state soggette a una rimozione."
+                ]
+            },
+            {
+            "domanda":"Come fa Google a proteggere la mia privacy e a tenere le mie informazioni al sicuro?",
+            "risposta":[
+                "Sappiamo che la sicurezza e la privacy sono importanti per te e lo sono anche per noi. Per noi è imperativo offrire un'elevata sicurezza e assicurarti che le tue informazioni sono al sicuro e accessibili quando ne hai bisogno.",
+                "Siamo costantemente al lavoro per garantire un'elevata sicurezza, proteggere la tua privacy e rendere Google ancora più efficace ed efficiente per te. Spendiamo centinaia di milioni di dollari ogni anno per la sicurezza e ci avvaliamo di esperti di fama mondiale in materia di sicurezza dei dati per mantenere le tue informazioni al sicuro. Abbiamo inoltre sviluppato strumenti per la sicurezza e la privacy di facile utilizzo come Google Dashboard, la verifica in due passaggi e Impostazioni annunci. Così, per quanto riguarda le informazioni che condividi con Google, hai il massimo controllo.",
+                "Puoi leggere ulteriori informazioni sulla sicurezza online, incluso come proteggere te e la tua famiglia online, nel Centro Google per la sicurezza online.",
+                "Scopri quali misure adottiamo per garantire protezione e sicurezza alle tue informazioni personali, lasciando a te il controllo."
+                ]
+            },
+            {
+            "domanda":"Come faccio a rimuovere informazioni su di me dai risultati di ricerca di Google?",
+            "risposta":[
+                "I risultati di ricerca di Google rispecchiano i contenuti pubblicamente disponibili sul Web. I motori di ricerca non possono rimuovere i contenuti direttamente dai siti web, quindi rimuovere risultati di ricerca da Google non consente di rimuovere i contenuti dal Web. Se desideri rimuovere qualcosa dal Web, devi contattare il webmaster del sito su cui sono pubblicati i contenuti e chiedergli di apportare una modifica. Inoltre, se, ai sensi delle leggi europee per la protezione dei dati, desideri richiedere la rimozione di determinate informazioni su di te visualizzate nei risultati di ricerca di Google, fai clic qui. Una volta che i contenuti saranno stati rimossi e che Google avrà rilevato l'aggiornamento, le informazioni non verranno più visualizzate nei risultati di ricerca di Google. In caso di una richiesta di rimozione urgente, è inoltre possibile visitare la nostra pagina di assistenza per avere ulteriori informazioni."
+                ]   
+            },
+            {
+            "domanda":"Quando faccio clic sui risultati della Ricerca Google, le mie chiavi di ricerca vengono inviate ai siti web?",
+            "risposta":[
+                "In alcuni casi sì. Quando fai clic su un risultato della Ricerca Google, il tuo browser web potrebbe reindirizzare alla pagina web di destinazione anche l'indirizzo Internet, o URL, della pagina dei risultati di ricerca sotto forma di URL referrer. Talvolta, l'URL della pagina dei risultati di ricerca potrebbe contenere la query di ricerca che hai inserito. Se utilizzi la ricerca SSL (la funzione di ricerca criptata di Google), nella maggior parte dei casi i termini di ricerca non vengono inviati come parte dell'URL negli URL referrer. Questo comportamento può fare eccezione, ad esempio se utilizzi alcuni browser meno diffusi. Ulteriori informazioni sulla ricerca SSL sono disponibili qui. Le query di ricerca o le informazioni contenute nell'URL referrer potrebbero essere disponibili mediante Google Analytics o un'API (Application Programming Interface). Inoltre, gli inserzionisti potrebbero ricevere informazioni relative all' esatte parole chiave che hanno determinato il clic su un annuncio."
+                ]   
+            }
+            ]
+        },
+        {
+        "lingua":"en",
+        "faq":[
+            {
+            "domanda":"How are you implementing the recent Court of Justice of the European Union (CJEU) decision on the right to be forgotten?",
+            "risposta":[
+                "The recent ruling by the Court of Justice of the European Union has profound consequences for search engines in Europe. The court found that certain users have the right to ask search engines like Google to remove results for queries that include the person's name. To qualify, the results shown would need to be inadequate, irrelevant, no longer relevant, or excessive.",
+                "Since this ruling was published on 13 May 2014, we've been working round the clock to comply. This is a complicated process because we need to assess each individual request and balance the rights of the individual to control his or her personal data with public's right to know and distribute information.",
+                "If you have a removal request, please fill out this webform. You'll receive an automatic reply confirming that we have received your request. We will then assess your case—please note this may take some time because we have already received many such requests. In evaluating your request, we will look at whether the results include outdated information about your private life. We'll also look at whether there's a public interest in the information remaining in our search results—for example, if it relates to financial scams, professional malpractice, criminal convictions or your public conduct as a government official (elected or unelected). These are difficult judgements and as a private organization, we may not be in a good position to decide on your case. If you disagree with our decision you can contact your local DPA.",
+                "We look forward to working closely with data protection authorities and others over the coming months as we refine our approach. The CJEU's ruling constitutes a significant change for search engines. While we are concerned about its impact, we also believe it's important to respect the Court's judgment and are working hard to devise a process that complies with the law.",
+                "When you search for a name, you may see a notice that says that results may have been modified in accordance with data protection law in Europe. We’re showing this notice in Europe when a user searches for most names, not just pages that have been affected by a removal."
+                ]
+            },
+            {
+            "domanda":"How does Google protect my privacy and keep my information secure?",
+            "risposta":[
+                "We know security and privacy are important to you – and they are important to us, too. We make it a priority to provide strong security and give you confidence that your information is safe and accessible when you need it.",
+                "We’re constantly working to ensure strong security, protect your privacy, and make Google even more effective and efficient for you. We spend hundreds of millions of dollars every year on security, and employ world-renowned experts in data security to keep your information safe. We also built easy-to-use privacy and security tools like Google Dashboard, 2-step verification and Ads Settings. So when it comes to the information you share with Google, you’re in control.",
+                "You can learn more about safety and security online, including how to protect yourself and your family online, at the Google Safety Center.",
+                "Learn more about how we keep your personal information private and safe — and put you in control."
+                ]
+            },
+            {
+            "domanda":"How can I remove information about myself from Google's search results?",
+            "risposta":[
+                "Google search results are a reflection of the content publicly available on the web. Search engines can't remove content directly from websites, so removing search results from Google wouldn't remove the content from the web. If you want to remove something from the web, you should contact the webmaster of the site the content is posted on and ask him or her to make a change. Additionally, if under European data protection law, you would like to request removal of certain information about you that appears in Google's search results, please click here. Once the content has been removed and Google has noted the update, the information will no longer appear in Google's search results. If you have an urgent removal request, you can also visit our help page for more information."
+                ]   
+            },
+            {
+            "domanda":"Are my search queries sent to websites when I click on Google Search results?",
+            "risposta":[
+                "In some cases, yes. When you click on a search result in Google Search, your web browser also may send the Internet address, or URL, of the search results page to the destination webpage as the Referrer URL. The URL of the search results page may sometimes contain the search query you entered. If you are using SSL Search (Google’s encrypted search functionality), under most circumstances, your search terms will not be sent as part of the URL in the Referrer URL. There are some exceptions to this behavior, such as if you are using some less popular browsers. More information on SSL Search can be found here. Search queries or information contained in the Referrer URL may be available via Google Analytics or an application programming interface (API). In addition, advertisers may receive information relating to the exact keywords that triggered an ad click."
+                ]   
+            }
+            ]
+        },
+        {
+        "lingua":"fr",
+        "faq":[
+            {
+            "domanda":"Comment appliquez-vous la récente décision de la Cour de justice de l'Union européenne (CJUE) concernant le droit à l'oubli ?",
+            "risposta":[
+                "Le récent arrêt de la Cour de justice de l'Union européenne a de profondes répercussions pour les moteurs de recherche en Europe. La Cour a estimé que certains utilisateurs ont le droit de demander aux moteurs de recherche tels que Google de supprimer les résultats de recherche qui incluent leur nom. Pour que cette décision soit applicable, les résultats affichés doivent être inadéquats, pas ou plus pertinents ou excessifs.",
+                "Depuis la publication de cette décision le 13 mai 2014, nous avons mis tout en œuvre pour nous y conformer. Il s'agit d'un processus complexe, car nous devons évaluer chaque demande individuelle et trouver un juste équilibre entre les droits d'un individu à contrôler ses données personnelles et le droit du public à accéder à ces informations et à les diffuser.",
+                "Si vous souhaitez soumettre une demande de suppression, veuillez remplir ce formulaire en ligne. Vous recevrez une réponse automatique confirmant que nous avons reçu votre demande. Celle-ci sera ensuite examinée. Notez que cette procédure peut prendre un certain temps en raison du volume de demandes du même type que nous recevons. Lors de l'évaluation de votre demande, nous vérifierons si les résultats comprennent des informations obsolètes sur votre vie privée. Nous chercherons également à déterminer si la conservation de ces informations dans nos résultats de recherche présente un intérêt public, par exemple, si elles concernent des escroqueries financières, une négligence professionnelle, des condamnations pénales ou votre conduite publique en tant que fonctionnaire (élu ou non élu). Ces cas sont complexes, d'autant que, en tant qu'entreprise privée, nous ne sommes pas les mieux placés pour statuer. Si vous n'êtes pas d'accord avec notre décision, vous pouvez contacter votre autorité locale de protection des données.",
+                "Nous sommes impatients de collaborer étroitement avec les autorités de protection des données et d'autres organismes compétents en la matière au cours des prochains mois afin de perfectionner notre approche. La décision de la CJUE implique un changement de taille pour les moteurs de recherche. Bien que son impact nous préoccupe, nous pensons également qu'il est important de respecter l'arrêt de la Cour et mettons tout en œuvre pour élaborer une procédure conforme à la loi.",
+                "Lorsque vous recherchez un nom, une notification peut indiquer que les résultats sont susceptibles d'avoir été modifiés conformément à la législation européenne en matière de protection des données. Nous affichons cette notification en Europe quand un utilisateur recherche des noms, et non simplement des pages concernées par une suppression."
+                ]
+            },
+            {
+            "domanda":"Quelles mesures Google met-elle en œuvre pour protéger ma vie privée et mes informations ?",
+            "risposta":[
+                "Nous savons que vous accordez une grande importance à la sécurité et à la confidentialité, et c'est également notre cas. C'est la raison pour laquelle Google fait de la protection de vos données et de leur accessibilité quand vous en avez besoin une priorité.",
+                "Nous veillons en permanence à assurer une sécurité maximale, à protéger votre vie privée, et à rendre les produits et services Google encore plus pratiques et plus utiles pour vous. À cette fin, nous consacrons chaque année plusieurs centaines de millions de dollars à la sécurité, et nous faisons appel à des spécialistes de la sécurité des données mondialement reconnus. Nous avons par ailleurs développé des outils de sécurité et de confidentialité simples à utiliser, tels que Google Dashboard, la validation en deux étapes et les paramètres des annonces. Vous conservez ainsi la maîtrise des informations que vous partagez avec Google.",
+                "Pour en savoir plus sur les méthodes qui vous permettent de garantir votre sécurité et celle de vos proches en ligne, consultez le Centre de sécurité Google.",
+                "En savoir plus sur la manière dont nous assurons la confidentialité et la sécurité de vos informations personnelles, et dont nous vous en donnons le contrôle."
+                ]
+            },
+            {
+            "domanda":"Comment puis-je supprimer mes données personnelles des résultats de recherche Google ?",
+            "risposta":[
+                "Les résultats de recherche Google reflètent le contenu accessible à tous sur le Web. Sachez que les moteurs de recherche n'ont pas la faculté d'effacer directement le contenu des sites Web. De ce fait, supprimer des résultats de la recherche Google n'entraînera pas la suppression des contenus correspondants. Pour que des données n'apparaissent plus sur le Web, vous devez contacter le webmaster du site publiant les informations en question. En outre, si, au titre de la législation européenne en matière de protection des données, vous souhaitez demander la suppression de certaines informations vous concernant qui s'affichent dans les résultats de recherche Google, veuillez cliquer ici. Une fois qu'il aura été supprimé du site et que Google aura pris en compte la mise à jour, le contenu incriminé ne figurera plus dans les résultats de recherche Google. En cas de demande urgente de suppression de contenu, vous pouvez également consulter notre Centre d'aide pour plus d'informations."
+                ]   
+            },
+            {
+            "domanda":"Mes requêtes de recherche sont-elles transmises aux sites Web lorsque je clique sur des résultats de recherche Google ?",
+            "risposta":[
+                "Dans certains cas, oui. Lorsque vous cliquez sur un résultat de recherche Google, votre navigateur Web peut également envoyer l'URL de provenance, c'est-à-dire l'adresse Internet (ou URL) de la page de résultats de recherche, à la page de destination. L'URL de la page de résultats de recherche peut parfois contenir votre requête de recherche. Si vous avez recours à la recherche SSL (la fonctionnalité de recherche chiffrée de Google), dans la plupart des cas, vos termes de recherche ne figureront pas dans l'URL de provenance. Il existe toutefois certaines exceptions, notamment si vous utilisez des navigateurs moins connus. Des informations supplémentaires sur la recherche SSL sont disponibles ici. Les requêtes de recherche ou les informations contenues dans l'URL de provenance peuvent être disponibles via Google Analytics ou une interface de programmation d'application (API). En outre, les annonceurs peuvent recevoir des informations concernant les mots clés exacts ayant entraîné un clic sur une annonce."
+                ]   
+            }
+            ]
+        },
+        {
+        "lingua":"es",
+        "faq":[
+            {
+            "domanda":"¿Cómo está implementando Google la reciente sentencia dictada por el Tribunal de Justicia de la Unión Europea (TJUE) sobre el derecho al olvido?",
+            "risposta":[
+                "El reciente fallo del Tribunal de Justicia de la Unión Europea tiene pprofundas consecuencias para los motores de búsqueda en Europa. El tribunal ha considerado que determinados usuarios tienen derecho a solicitar a los motores de búsqueda como Google que eliminen los resultados de consultas que incluyan su nombre. Para ello, los resultados mostrados deben considerarse inadecuados, irrelevantes o ya no relevantes, o excesivos.",
+                "Desde que esta sentencia se publicó el 13 de mayo de 2014, hemos estado trabajando contra reloj para cumplirla. Se trata de un proceso complicado porque necesitamos evaluar cada solicitud de forma individual y ponderar los derechos de la persona a controlar sus datos personales con el derecho del público a conocer y distribuir información.",
+                "Si quieres enviar una solicitud de eliminación, rellena este formulario web. Recibirás una respuesta automática en la que se confirmará que hemos recibido tu solicitud. A continuación, evaluaremos tu caso (ten en cuenta que esta evaluación puede tardar algún tiempo, puesto que ya hemos recibido muchas de estas solicitudes). Al evaluar tu solicitud, tendremos en cuenta si los resultados incluyen información obsoleta sobre tu vida privada, así como si existe un interés público en lo que respecta a la información que permanece en los resultados de búsqueda de Google (por ejemplo, si está relacionada con estafas financieras, con negligencia profesional, con condenas penales o con tu conducta como funcionario público, tanto electo como designado). Se trata de decisiones difíciles y, como organización privada, es posible que no nos encontremos en una posición adecuada para decidir sobre tu caso. Si no estás de acuerdo con nuestra decisión, puedes ponerte en contacto con la autoridad de protección de datos local.",
+                "Esperamos colaborar estrechamente con las autoridades de protección de datos y con otros organismos en los próximos meses a medida que perfeccionamos nuestro enfoque. La sentencia del TJUE constituye un cambio considerable para los motores de búsqueda. Aunque nos preocupa su impacto, también creemos que es importante respetar la decisión del tribunal, por lo que estamos trabajando para diseñar un proceso que respete la ley.",
+                "Al buscar un nombre, es posible que aparezca un aviso indicando que los resultados se pueden haber modificado de acuerdo con la ley de protección de datos europea. Google muestra este aviso en Europa cuando un usuario busca la mayoría de los nombres, no solo las páginas que se han visto afectados por una eliminación."
+                ]
+            },
+            {
+            "domanda":"¿Cómo protege Google mi privacidad y mi información?",
+            "risposta":[
+                "Somos conscientes de que la seguridad y la privacidad son importantes para ti y, para nosotros, también lo son. Una de nuestras prioridades es ofrecer la mayor seguridad posible, así como garantizar que tu información esté a salvo y que puedas acceder a ella en cualquier momento.",
+                "Trabajamos constantemente para garantizar una seguridad sólida, proteger tu privacidad y hacer que Google sea lo más eficaz y eficiente para ti. Invertimos cientos de millones de dólares cada año en seguridad y disponemos de los expertos en seguridad de datos más importantes del mundo para mantener tu información protegida. También hemos creado herramientas de privacidad y seguridad fáciles de utilizar como, por ejemplo, el Panel de Control de Google, la verificación en dos pasos y la Configuración de Anuncios. Por tanto, en lo que respecta a la información que compartes con Google, tú tienes el control.",
+                "Para obtener más información sobre la seguridad online, como lo que puedes hacer para protegeros a ti y a tu familia en Internet, consulta la página del Centro de seguridad de Google.",
+                "Obtén más información sobre cómo mantenemos la privacidad y la seguridad de tu información personal y sobre cómo te garantizamos el control de esa información."
+                ]
+            },
+            {
+            "domanda":"¿Cómo puedo eliminar información sobre mi mismo de los resultados de búsqueda de Google?",
+            "risposta":[
+                "Los resultados de búsqueda de Google reflejan el contenido disponible públicamente para todos los usuarios en Internet. Los motores de búsqueda no pueden eliminar contenido directamente de los sitios web. Por ello, eliminar resultados de búsqueda de Google no implica eliminar el contenido de Internet. Si quieres eliminar contenido de Internet, debes ponerte en contacto con el webmaster del sitio web en el que aparece el contenido y pedirle que lo modifique. Asimismo, si en virtud de la normativa europea sobre protección de datos quieres solicitar la eliminación de determinada información sobre ti que aparezca en los resultados de búsqueda de Google, haz clic aquí. Cuando el contenido se haya eliminado y Google detecte la actualización, la información dejará de aparecer en los resultados de búsqueda de Google. Para solicitar una eliminación urgente de contenido también puedes acceder a la página de ayuda para obtener más información."
+                ]   
+            },
+            {
+            "domanda":"¿Mis consultas de búsqueda se envían a los sitios web al hacer clic en los resultados de la Búsqueda de Google?",
+            "risposta":[
+                "En algunos casos, sí. Al hacer clic en un resultado de la Búsqueda de Google, tu navegador web también puede enviar la dirección de Internet (o URL) de la página de resultados de búsqueda a la página web de destino como URL de referencia. La URL de la página de los resultados de búsqueda puede incluir en algunas ocasiones la consulta de búsqueda realizada. Si utilizas la función de búsqueda cifrada de Google, denominada búsqueda SSL, en la mayoría de los casos los términos de búsqueda no aparecerán en la URL de referencia. Existen varias excepciones a esto, por ejemplo, si utilizas determinados navegadores menos populares. Consulta más información sobre la búsqueda SSL. Las consultas de búsqueda o la información incluida en las URL de referencia pueden estar disponibles a través de Google Analytics o de una interfaz de programación de aplicaciones (API). Además, los anunciantes pueden recibir información relacionada con las palabras clave exactas que han dado lugar a un clic en un anuncio."
+                ]   
+            }
+            ]
+        }
+    ]
+}

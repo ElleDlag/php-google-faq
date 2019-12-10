@@ -1,0 +1,18 @@
+.theQuestion{
+    background: rgb(220, 249, 255);
+    padding:10px;
+}
+.theQuestion:hover{
+    background: rgb(152, 199, 208); 
+    cursor: pointer;
+}
+.all-asks{
+    display:none;
+}
+.all-asks.viewAsk{
+    display:block;
+}
+/* .faq:nth-child(1)>.all-asks{
+    display:block
+} */
+
