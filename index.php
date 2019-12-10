@@ -1,3 +1,8 @@
+<?php
+if(!$_GET){
+    $_GET['lang'] = 'it';
+}
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
