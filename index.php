@@ -29,7 +29,8 @@ if(!$_GET){
         <main>
         <?php foreach ($values as $arrayLang):
         $getlang = $arrayLang['lingua'];
-            switch ($getlang) {
+        retriveFaq($arrayLang['faq'], $getlang);
+            /*switch ($getlang) {
             case 'it':
                 retriveFaq($arrayLang['faq'], 'it');
             break;
@@ -42,7 +43,7 @@ if(!$_GET){
             case 'es':
                 retriveFaq($arrayLang['faq'], 'es');
             break;
-        };
+        };*/
         endforeach ?>  
         </main>    
     <script src="script.js"></script>
